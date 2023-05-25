@@ -1,4 +1,4 @@
-#Olist Power BI Dashboard with Python Data Cleaning and Sentiment Analysis
+# Olist Power BI Dashboard with Python Data Cleaning and Sentiment Analysis
 
 Description: This repository contains the code and documentation for a Power BI dashboard based on the data provided by Olist on Kaggle. Olist is a Brazilian e-commerce platform that connects small businesses to marketplaces. The dataset includes information on orders, products, customers, sellers, reviews, and payments.
 
