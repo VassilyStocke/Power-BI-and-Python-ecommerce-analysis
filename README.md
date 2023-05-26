@@ -8,7 +8,12 @@ The Power BI dashboard provides insights into various aspects of Olist's busines
 
 The dashboard was designed using best practices in data visualization and user experience, with a focus on simplicity, clarity, and interactivity. The underlying data model and queries were optimized for performance and scalability, using techniques such as data shaping, data modeling, and DAX calculations.
 
-The code in this repository includes the Python scripts (.ipynb) used for cleaning the data, a pdf file containing the different DAX formula and the a pdf file containing screenshot of the report, the tables and the data model. The python documentation also includes a source code commenting. 
+The code in this repository includes the Python scripts (.ipynb) used for cleaning the data, a pdf file containing the different DAX formula and a pdf file containing screenshot of the report, the tables and the data model. The python documentation also includes a source code commenting. 
 
 This project showcases my skills in data cleaning, sentiment analysis, data analysis, data visualization, and Power BI development. It demonstrates my ability to work with large and complex datasets, to extract insights from data, and to communicate those insights effectively to stakeholders. It also highlights my attention to detail, my creativity, and my passion for data-driven solutions.
+
+# Dashboard
+https://github.com/VassilyStocke/Olist_brazilian_ecom_powerbi/blob/main/PowerBi%20report%20Olist.pdf
+# Kaggle dataset 
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
