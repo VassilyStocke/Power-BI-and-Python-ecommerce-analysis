@@ -1,19 +1,36 @@
-# Olist Power BI Dashboard with Python Data Cleaning and Sentiment Analysis
 
-This repository contains the code and documentation for a Power BI dashboard based on the data provided by Olist on Kaggle. Olist is a Brazilian e-commerce platform that connects small businesses to marketplaces. The dataset includes information on orders, products, customers, sellers, reviews, and payments.
+ 🛍️ Olist Brazilian E-commerce Analysis with Power BI & Google API
 
-In addition to the Power BI dashboard, this repository also includes a folder with Python scripts for data cleaning and sentiment analysis. The data cleaning script prepares the raw data for analysis by filtering, merging, and transforming the tables. The sentiment analysis script performs a work-around sentiment analysis on the review data, leveraging pre-trained models and NLP techniques.
+## 📌 Project Overview
+This project analyzes Brazilian e-commerce data using Power BI, enriched with external data from a Google API via Python. It demonstrates how to build a data pipeline from API to dashboard, enabling business insights for strategy and operations.
 
-The Power BI dashboard provides insights into various aspects of Olist's business, such as sales, profitability, customer behavior, product performance, seller performance, and review ratings. The dashboard consists of multiple pages, each with its own visualizations, filters, and drill-down capabilities.
+## 🧰 Tech Stack
+- **Power BI**: Dashboard creation and data visualization
+- **Python**: API integration and data preprocessing
+- **Google API**: External data enrichment
+- **SQL**: Data transformation
+- **Jupyter Notebook**: Exploratory analysis
 
-The dashboard was designed using best practices in data visualization and user experience, with a focus on simplicity, clarity, and interactivity. The underlying data model and queries were optimized for performance and scalability, using techniques such as data shaping, data modeling, and DAX calculations.
+## 📊 Dashboard Preview
+![Dashboard Screenshot]
 
-The code in this repository includes the Python scripts (.ipynb) used for cleaning the data, a pdf file containing the different DAX formula and a pdf file containing screenshot of the report, the tables and the data model. The python documentation also includes a source code commenting. 
+- API integration using Python
+- Data cleaning and transformation
+- Interactive Power BI dashboard
+- Business KPIs: delivery time, payment methods, customer satisfaction
 
-This project showcases my skills in data cleaning, sentiment analysis, data analysis, data visualization, and Power BI development. It demonstrates my ability to work with large and complex datasets, to extract insights from data, and to communicate those insights effectively to stakeholders. It also highlights my attention to detail, my creativity, and my passion for data-driven solutions.
+## 📁 Repository Structure
+- `python-scripts/`: Python code for API calls and data prep
+- `powerbi-dashboard.pbix`: Final dashboard file
+- `data/`: Sample data used for testing
+- `requirements.txt`: Python dependencies
 
-# Dashboard
-https://github.com/VassilyStocke/Olist_brazilian_ecom_powerbi/blob/main/PowerBi%20report%20Olist.pdf
+## 📈 Results
+- Improved delivery time insights
+- Identified top-performing product categories
+- Correlated customer reviews with delivery performance
+
+
 # Kaggle dataset 
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
