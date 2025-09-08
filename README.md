@@ -11,8 +11,9 @@ This project analyzes Brazilian e-commerce data using Power BI, enriched with ex
 - **SQL**: Data transformation
 - **Jupyter Notebook**: Exploratory analysis
 
-## 📊 Dashboard Preview
-![Dashboard Screenshot]
+## 📊 Dashboard & datamodel Preview
+<img width="636" height="355" alt="image" src="https://github.com/user-attachments/assets/a46667ce-db7c-4db3-ae04-2016382ea9ae" />
+<img width="485" height="362" alt="image" src="https://github.com/user-attachments/assets/7eddef05-7c4c-45bb-a488-0ffe71757cf9" />
 
 - API integration using Python
 - Data cleaning and transformation
@@ -21,8 +22,7 @@ This project analyzes Brazilian e-commerce data using Power BI, enriched with ex
 
 ## 📁 Repository Structure
 - `python-scripts/`: Python code for API calls and data prep
-- `powerbi-dashboard.pbix`: Final dashboard file
-- `data/`: Sample data used for testing
+- `powerbi-dashboard.pdf`: Final dashboard file
 - `requirements.txt`: Python dependencies
 
 ## 📈 Results
